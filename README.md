@@ -21,4 +21,4 @@ see command-line arguments in `src.utils.parse_args`
 
 
 ## TODO
-[] implement hard triplet loss
+- [ ] implement hard triplet loss
